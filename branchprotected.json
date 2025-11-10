@@ -1,0 +1,8 @@
+{
+  "apiVersion": "github.com/microsoft/PSRule/v1",
+  "kind": "api.github.com/repos/branches",
+  "metadata": { "name": "main" },
+  "Name": "main",
+  "Protected": true,
+  "Commit": { "sha": "abc123" }
+}
