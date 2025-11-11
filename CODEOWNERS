@@ -1,4 +1,4 @@
 # Some codeowners
 
-* @TestOrgPtyLtd/reviewers
+*     @TestOrgPtyLtd/reviewers
 /docs @paudis
